@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer-auto-test",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/fgfg163/puppeteer-auto-test.git",
+  "author": "fgfg163",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "carlo": "^0.9.46",
+    "puppeteer-core": "^1.18.1",
+    "sleep-promise": "^8.0.1"
+  }
+}
